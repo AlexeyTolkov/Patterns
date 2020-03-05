@@ -21,6 +21,7 @@ namespace Patterns
             var s = Size.Medium;
 
             Console.WriteLine(s);
+            Console.WriteLine("!!!");
         }
     }
 }
