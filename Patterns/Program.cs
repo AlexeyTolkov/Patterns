@@ -19,6 +19,8 @@ namespace Patterns
             Console.WriteLine("Hello World!");
 
             var s = Size.Medium;
+
+            Console.WriteLine(s);
         }
     }
 }
